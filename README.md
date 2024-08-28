@@ -1,5 +1,4 @@
-## Hi there 👋
-### What's working on
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
